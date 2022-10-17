@@ -1,0 +1,12 @@
+{
+  "name": "01",
+  "version": "0.0.1",
+  "description": "Hello world",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "author": "mkubera",
+  "license": "MIT"
+}
