@@ -1,12 +1,24 @@
 {
   "name": "01",
-  "version": "0.0.1",
-  "description": "Hello world",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.mjs"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mkubera",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkubera/goit-node-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkubera/goit-node-4/issues"
+  },
+  "homepage": "https://github.com/mkubera/goit-node-4#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.1"
+  }
 }
