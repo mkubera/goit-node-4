@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/mkubera/goit-node-4#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "morgan": "^1.10.0",
     "nanoid": "^4.0.0",
     "nodemon": "^2.0.20",
     "ramda": "^0.28.0"
